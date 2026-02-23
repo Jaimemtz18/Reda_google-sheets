@@ -9,3 +9,6 @@ credentials.json
 
 # Archivos temporales o logs
 *.log
+
+# Archivos temporales o logs
+*daemon/
